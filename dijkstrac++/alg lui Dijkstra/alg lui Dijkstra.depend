@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660287182 source:c:\users\diana\onedrive\desktop\surse\tudor ghidarcea\alg lui dijkstra\main.cpp
+	<fstream>
+	<iostream>
+
